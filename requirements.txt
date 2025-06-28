@@ -1,0 +1,10 @@
+streamlit
+spotipy
+google-generativeai
+textblob
+transformers
+plotly
+wordcloud
+matplotlib
+pandas
+seaborn
